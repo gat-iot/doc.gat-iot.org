@@ -1,2 +1,2 @@
-# gat-iot.com
+# gat-iot.org
 IoT Manufacturers
